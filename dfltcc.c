@@ -18,6 +18,7 @@
 #include <config.h>
 
 #include <stdlib.h>
+#include <errno.h>
 
 #ifdef HAVE_SYS_SDT_H
 # include <sys/sdt.h>
